@@ -1,0 +1,5 @@
+{
+  "origins": ["https://giscus.app"],
+  "originsRegex": ["https://jb18.cm"],
+  "defaultCommentOrder": "newest"
+}
